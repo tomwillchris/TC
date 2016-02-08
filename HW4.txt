@@ -1,0 +1,3 @@
+Database normalization is a very neccassary and efficient way to maintain and control DB's. However in some situations it is not always needed or doing more good than bad.
+If your database data doesnt change very often or stays the same for majority of its life span then normalization isnt required and would not save much time. Too much normalization can be bad thing as well as 
+having to little of it. Finding a balance is what makes a good database engineer and or software dev.
